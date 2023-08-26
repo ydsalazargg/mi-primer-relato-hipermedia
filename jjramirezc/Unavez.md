@@ -5,3 +5,4 @@ Erase una vez, en las montañas boscosas habitaba caperucita, una cruel e inhuma
 
 ![Cazadora](https://p4.wallpaperbetter.com/wallpaper/823/831/702/hunter-wolf-animated-cartoonish-fantasy-art-warriors-red-riding-hood-1680x1050-abstract-fantasy-hd-art-wallpaper-preview.jpg)
 
+[La caza: Capitulo 2](Lacaza.md)
