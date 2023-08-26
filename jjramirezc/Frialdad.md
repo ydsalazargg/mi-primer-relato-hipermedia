@@ -12,3 +12,6 @@ Caperucita se encuentra frente a frente con el lobo, el cual se le veía con mie
 
 
 [Guardabosques: Capitulo 4.1](Guardabosques.md)
+
+
+[Consciencia: Capitulo 5](Consciencia.md)
