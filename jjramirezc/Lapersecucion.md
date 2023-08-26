@@ -12,3 +12,6 @@ Caperucita encuentra un rastro de sangre, parece que algún lobo despistado ha d
 
 
 [Abuela: Capitulo 3.1](Abuela.md)
+
+
+[Frialdad Capitulo 4](Frialdad.md)
