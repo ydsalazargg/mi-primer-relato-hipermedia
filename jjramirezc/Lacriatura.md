@@ -5,3 +5,6 @@ El lobo, un canino que la gente encasilla como feroz y repulsivo, se encuentra c
 ![Feliz](https://www.enriquedemora.com/wp-content/uploads/2016/10/quien-teme-al-lobo-feliz.jpg)
 
 [La caza: Capitulo 2](Lacaza.md)
+
+
+[La persecucion: Capitulo 3](Lapersecucion.md)
