@@ -6,4 +6,6 @@ Un día caperucita decide ir a cazar lobos, para llevarlos a donde su abuela la 
 ![Lobo](https://www.elsigma.com/uploads/images/introd(1).jpg)
 
 [Erase una vez: Capitulo 1](Unavez.md)
+
+
 [La criatura: Capitulo 2.1](Lacriatura.md)
