@@ -5,4 +5,4 @@ El guardabosque se encontraba tomando café en su puesto, como suele hacerlo, de
 
 ![Guardabosques](https://www.puzzlesjunior.com/imatjes/el-guardabosques-smith_517944e29d4c6-p.jpg)
 
-[Frialdad]
+[Frialdad: Capitulo 4](Frialdad.md)
