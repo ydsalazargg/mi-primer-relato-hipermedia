@@ -6,3 +6,6 @@ En la parte sur del bosque, hay una casa de madera construida a mano, ahí viví
 ![Casa](https://www.dsigno.es/blog/wp-content/uploads/2013/11/inspiracion_casa_bosque_6.jpg)
 
 [La persecucion: Capitulo 3](Lapersecucion.md)
+
+
+[Frialdad: Capitulo 4](Frialdad.md)
