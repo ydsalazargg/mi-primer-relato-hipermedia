@@ -5,3 +5,7 @@ Caperucita se encuentra frente a frente con el lobo, el cual se le veía con mie
 
 ![Frente](https://static.nationalgeographic.es/files/styles/image_3200/public/20409.600x450.jpg?w=710&h=533)
 
+[La persecucion: Capitulo 3](Lapersecucion.md)
+
+
+[Abuela: Capitulo 3.1](Abuela.md)
