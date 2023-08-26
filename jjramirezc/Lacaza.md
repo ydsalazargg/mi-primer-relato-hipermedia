@@ -9,3 +9,6 @@ Un día caperucita decide ir a cazar lobos, para llevarlos a donde su abuela la 
 
 
 [La criatura: Capitulo 2.1](Lacriatura.md)
+
+
+[La persecucion: Capitulo 3](Lapersecucion.md)
